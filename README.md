@@ -2,7 +2,7 @@
 
 > ⚠️ **SYSTEM ALERT:** You have entered a restricted zone.
 
-Welcome to my digital identity vault. I specialize in **Security Research**, **Pentesting**, and **Cryptography**.
+Welcome to my digital identity vault.
 
 ---
 
